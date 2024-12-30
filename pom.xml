@@ -23,11 +23,7 @@
 			<artifactId>selenium-java</artifactId>
 			<version>4.26.0</version>
 		</dependency>
-		<dependency>
-			<groupId>INTRODUCTION</groupId>
-			<artifactId>INTRODUCTION</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi</artifactId>
